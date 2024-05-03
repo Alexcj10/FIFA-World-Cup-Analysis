@@ -29,5 +29,28 @@ and come up with your findings.
 Dataset is available in the given link. You can download it at your convenience.
 [Download Datasets](https://drive.google.com/file/d/1R4cUpUh0FTZGVcJiKSOsqHXEJ6l1zwS-/view)
 
+# Approaches:
 
+Python, Tableau, Power BI or you can use any tools and techniques as per
+your convenience. We would appreciate your valid imagination in finding
+solutions.
 
+# Project Evaluation metrics:
+# Code: As per the requirements
+
+●You are supposed to write code in a modular fashion
+●Safe: It can be used without causing harm.
+●Testable: It can be tested at the code level.
+●Maintainable: It can be maintained, even as yourcodebase grows.
+●Portable: It works the same in every environment(operating system)
+
+# Submission requirements:
+
+# Project work:
+For Tableau : You will have to share the Tableau PublicLink of your work
+For Python : You have to submit your code PDF fileat the final submission.
+
+# Detail project report:
+You have to create a detailed project report and submit that document as per the
+given sample.
+Demo link [Sample Project Report](https://docs.google.com/presentation/d/1dqD3Lg4Ua3NZRFbd5bJfocIBE-xpCIB4/edit#slide=id.p1)
