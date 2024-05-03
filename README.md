@@ -53,4 +53,4 @@ For Python : You have to submit your code PDF fileat the final submission.
 # Detail project report:
 You have to create a detailed project report and submit that document as per the
 given sample. <br>
-Demo link [Sample Project Report](https://docs.google.com/presentation/d/1dqD3Lg4Ua3NZRFbd5bJfocIBE-xpCIB4/edit#slide=id.p1)
+Demo link <br>[Sample Project Report](https://docs.google.com/presentation/d/1dqD3Lg4Ua3NZRFbd5bJfocIBE-xpCIB4/edit#slide=id.p1)
