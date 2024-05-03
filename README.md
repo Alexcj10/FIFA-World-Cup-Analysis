@@ -7,7 +7,7 @@
 | Technologies             | Data Science            |
 |                                                    |
 | Domain                   | Sports                  |
-|                                                    |
+  ------------------------ | -----------------------
 | Project Difficulty Level | Advanced                |
 
 
