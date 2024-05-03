@@ -3,7 +3,7 @@
 ## Project Details
 
 | Project Title            | FIFA World Cup Analysis |
-|--------------------------|-------------------------|
+|                                                    |
 | Technologies             | Data Science            |
 | ------------------------ | ----------------------- |
 | Domain                   | Sports                  |
