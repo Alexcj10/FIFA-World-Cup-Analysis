@@ -65,6 +65,17 @@ We welcome contributions from anyone interested in FIFA World Cup analysis! Whet
 5. Feedback and Suggestions: Even if you're not able to contribute code or analysis directly, your feedback and suggestions are invaluable. Share your thoughts on our approach, offer suggestions for improvement, or let us know about any issues you encounter. Your input helps us continuously refine and improve our project.
 
 # Getting Started
+To get started, simply follow these steps:
+
+1. Install Git: If you haven't already, download and install Git on your computer. You can find the installation instructions for your operating system on the official Git website: Git Downloads.
+2. Clone the Repository: Once Git is installed, open a terminal or command prompt and run the following command to clone the repository to your local machine:<br>
+git clone https://github.com/Alexcj10/fifa-world-cup-analysis.git <br>
+This will create a local copy of the repository on your machine.
+3. Navigate to the Repository: Use the 'cd' command to navigate into the cloned repository directory:<br>
+cd fifa-world-cup-analysis<br>
+4. Explore the Project: You're now inside the cloned repository directory. Take some time to explore the project structure, view the files, and get familiar with the codebase.
+5. Start Contributing: Once you're ready to contribute, follow the guidelines provided in the project's README file and make your changes accordingly.<br>
+
 To get started, simply fork this repository, clone it to your local machine, and explore the project files. If you have any questions or need assistance, feel free to reach out by email at alexchandarjoshva@gmail.com. Whether you're unsure about how to contribute or need clarification on project details, we're here to help.
 
 # Full Project Requests
